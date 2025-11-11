@@ -16,7 +16,7 @@ A clean and intuitive TODO list application built with React Native and Expo.
 npm install
 
 # Start the app
-npx expo start
+npx expo start - c tunnel
 ```
 
 ## 🛠️ Tech Stack
